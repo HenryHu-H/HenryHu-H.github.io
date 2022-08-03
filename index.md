@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student in Artificial Intelligence at Zhejiang University.
+I am a senior undergraduate student in Artificial Intelligence at Zhejiang University.
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ I am an undergraduate student in Artificial Intelligence at Zhejiang University.
 
 ## News
 
-- **[Feb. 2022]** I became a research intern at University of Illinois Urbana-Champaign, supervised by Prof. [[Bo Li](https://aisecure.github.io)].
+- **[Feb. 2022]** I became a research intern at University of Illinois Urbana-Champaign, supervised by Prof. [Bo Li](https://aisecure.github.io).
 
 ## Preprints
 
