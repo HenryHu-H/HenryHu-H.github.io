@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student in Artificial Intelligence at Zhejiang University.
+I am a senior undergraduate student in Artificial Intelligence ([Turing Class](http://www.cs.zju.edu.cn/turingclass_en)) at [Zhejiang University](https://www.zju.edu.cn/english).
+
+## Education
+
+- Sep. 2019 - Present: Bachelor of Engineering, Artificial Intelligence (Turing Class), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) & [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn), Zhejiang University
 
 ## Research Interests
 
@@ -13,7 +17,7 @@ I am a senior undergraduate student in Artificial Intelligence at Zhejiang Unive
 
 ## News
 
-- **[Feb. 2022]** I became a research intern at University of Illinois Urbana-Champaign, supervised by Prof. [Bo Li](https://aisecure.github.io).
+- **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), supervised by Prof. [Bo Li](https://aisecure.github.io).
 
 ## Preprints
 
@@ -33,7 +37,13 @@ I am a senior undergraduate student in Artificial Intelligence at Zhejiang Unive
   <br>
   IEEE Transactions on Visualization and Computer Graphics (TVCG). **IEEE VIS 2022**.
   <br>
-  [[PDF(Not available for now)](https://zjuidg.org)]
+  [[PDF(Not available yet)](https://zjuidg.org)]
+
+## Honors and Awards
+
+ - **First Prize Scholarship (3%):** Nov 2021, Nov 2020
+ - **Outstanding Student Cadre (2%):** May 2022, May 2020
+ - **Navigator Scholarship of Chu Kochen Honors College (5%):** Nov 2021
 
 ## Services
 
