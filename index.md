@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student in Artificial Intelligence ([Turing Class](http://www.cs.zju.edu.cn/turingclass_en)) at [Zhejiang University](https://www.zju.edu.cn/english), jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) & [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). My research interests include machine learning, federated learning, AI privacy, and AI fairness. I also have some experience in visual analytics, including machine learning diagnosis and sports data analysis.
+I am a senior undergraduate student in Artificial Intelligence ([Turing Class](http://www.cs.zju.edu.cn/turingclass_en)) at [Zhejiang University](https://www.zju.edu.cn/english), jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). My research interests include machine learning, federated learning, AI privacy, and AI fairness. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
 
 ## News
 
