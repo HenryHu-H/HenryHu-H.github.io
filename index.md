@@ -24,11 +24,11 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
 
 - **Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training**
   <br>
-  Jiachen Wang, Ji Ma, **Kangping Hu**, Zheng Zhou, Hui Zhang, Xiao Xie, Yingcai Wu
+  Jiachen Wang, Ji Ma, **Kangping Hu**, Zheng Zhou, Hui Zhang, Xiao Xie, [Yingcai Wu](http://www.ycwu.org)
   <br>
   IEEE Transactions on Visualization and Computer Graphics (TVCG). **IEEE VIS 2022**.
   <br>
-  [[PDF(Not available yet)](https://zjuidg.org)]
+  [PDF] [[Website](https://zjuidg.org)]
 
 ## Honors and Awards
 
