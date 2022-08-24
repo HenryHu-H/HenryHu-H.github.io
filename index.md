@@ -9,6 +9,7 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
 ## News
 
 - **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), supervised by Prof. [Bo Li](https://aisecure.github.io).
+- **[Apr. 2021]** I became a research intern at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by Prof. [Yingcai Wu](http://www.ycwu.org) and Prof. [Wei Chen](http://www.cad.zju.edu.cn/chenwei).
 
 ## Preprints
 
@@ -24,7 +25,7 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
 
 - **Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training**
   <br>
-  Jiachen Wang, Ji Ma, **Kangping Hu**, Zheng Zhou, Hui Zhang, Xiao Xie, [Yingcai Wu](http://www.ycwu.org)
+  Jiachen Wang, Ji Ma, **Kangping Hu**, Zheng Zhou, Hui Zhang, Xiao Xie, Yingcai Wu
   <br>
   IEEE Transactions on Visualization and Computer Graphics (TVCG). **IEEE VIS 2022**.
   <br>
