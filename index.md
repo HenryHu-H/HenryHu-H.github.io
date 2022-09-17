@@ -17,8 +17,6 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
   <br>
   Xiaoyuan Liu, Tianneng Shi, Chulin Xie, Qinbin Li, **Kangping Hu**, Haoyu Kim, Xiaojun Xu, Bo Li, Dawn Song
   <br>
-  Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022 Datasets and Benchmarks Track**.
-  <br>
   [[PDF](https://arxiv.org/pdf/2207.10308.pdf)] [[Code](https://github.com/AI-secure/FLBenchmark-toolkit)] [[Website](https://unifedbenchmark.github.io)]
 
 ## Publications
@@ -36,6 +34,7 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
  - **First Prize Scholarship (3%):** Nov 2021, Nov 2020
  - **Outstanding Student Cadre (2%):** May 2022, May 2020
  - **Navigator Scholarship of Chu Kochen Honors College (5%):** Nov 2021
+ - **Chu Kochen Honors College Leadership Cultivation Program: Outstanding Student (2%):** Dec 2020
 
 ## Services
 
