@@ -25,9 +25,9 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
   <br>
   Jiachen Wang, Ji Ma, **Kangping Hu**, Zheng Zhou, Hui Zhang, Xiao Xie, Yingcai Wu
   <br>
-  IEEE Transactions on Visualization and Computer Graphics (TVCG). **IEEE VIS 2022**.
+  **IEEE Transactions on Visualization and Computer Graphics (TVCG). IEEE VIS 2022**.
   <br>
-  [PDF] [[Website](https://zjuidg.org)]
+  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9906970) [[Website](https://zjuidg.org)]
 
 ## Honors and Awards
 
