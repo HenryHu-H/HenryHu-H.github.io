@@ -27,7 +27,7 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
   <br>
   **IEEE Transactions on Visualization and Computer Graphics (TVCG). IEEE VIS 2022**.
   <br>
-  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9906970) [[Website](https://zjuidg.org)]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/9906970)] [[Website](https://zjuidg.org)]
 
 ## Honors and Awards
 
