@@ -31,11 +31,12 @@ I am a senior undergraduate student in Artificial Intelligence ([Turing Class](h
 
 ## Honors and Awards
 
- - **First Prize Scholarship (3%):** Nov 2021, Nov 2020
- - **Outstanding Student Cadre (2%):** May 2022, May 2020
- - **Navigator Scholarship of Chu Kochen Honors College (5%):** Nov 2021
- - **Chu Kochen Honors College Leadership Cultivation Program: Outstanding Student (2%):** Dec 2020
+ - **Zhejiang University: First Prize Scholarship (3%):** 2019 - 2022
+ - **Zhejiang University: Outstanding Student Cadre (2%):** 2020, 2022
+ - **Chu Kochen Honors College: Scholarship for Leading Achievements (5%):** 2021
+ - **MIT “AI+X” Blended Learning Advanced SPOC: Graded A+ (10%):** 2021
+ - **Chu Kochen Honors College Leadership Cultivation Program: Outstanding Student (2%):** 2020
 
 ## Services
 
-- Conference Reviewer: NeurIPS 2022 Datasets and Benchmarks Track
+- **Conference Reviewer:** NeurIPS 2022 Datasets and Benchmarks Track
