@@ -31,6 +31,7 @@ I am a senior undergraduate student in Artificial Intelligence (Turing Class) at
 
 ## Honors and Awards
 
+ - **Zhejiang Provincial Government Scholarship (3%):** 2022
  - **Zhejiang University: First Prize Scholarship (3%):** 2019 - 2022
  - **Zhejiang University: Outstanding Student Cadre (2%):** 2020, 2022
  - **Chu Kochen Honors College: Scholarship for Leading Achievements (5%):** 2021
