@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student in Artificial Intelligence (Turing Class) at [Zhejiang University](https://www.zju.edu.cn/english), jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). My research interests include machine learning, federated learning, AI privacy, and AI security. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
+I am a first-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), supervised by [Prof. Calton Pu](https://www.cc.gatech.edu/~calton). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am working on domain-adaptive machine learning and federated learning. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
 
 ## News
 
-- **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), supervised by Prof. [Bo Li](https://aisecure.github.io).
-- **[Apr. 2021]** I became a research intern at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by Prof. [Yingcai Wu](http://www.ycwu.org) and Prof. [Wei Chen](http://www.cad.zju.edu.cn/chenwei).
+- **[Aug. 2023]** I became a Ph.D. student at [Georgia Institute of Technology](https://gatech.edu), supervised by [Prof. Calton Pu](https://www.cc.gatech.edu/~calton).
+- **[Jun. 2023]** I graduated from [Zhejiang University](https://www.zju.edu.cn/english) with my bachelor's degree.
+- **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), supervised by [Prof. Bo Li](https://aisecure.github.io).
+- **[Apr. 2021]** I became a research intern at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Wei Chen](http://www.cad.zju.edu.cn/chenwei).
 
 ## Preprints
 
