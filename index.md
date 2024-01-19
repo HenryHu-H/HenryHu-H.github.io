@@ -15,9 +15,9 @@ I am a first-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
 
 ## Preprints
 
-- **UniFed: A Benchmark for Federated Learning Frameworks**
+- **UniFed: All-In-One Federated Learning Platform to Unify Open-Source Frameworks**
   <br>
-  Xiaoyuan Liu, Tianneng Shi, Chulin Xie, Qinbin Li, **Kangping Hu**, Haoyu Kim, Xiaojun Xu, Bo Li, Dawn Song
+  Xiaoyuan Liu, Tianneng Shi, Chulin Xie, Qinbin Li, **Kangping Hu**, Haoyu Kim, Xiaojun Xu, The-Anh Vu-Le, Zhen Huang, Arash Nourian, Bo Li, Dawn Song
   <br>
   [[PDF](https://arxiv.org/pdf/2207.10308.pdf)] [[Code](https://github.com/AI-secure/FLBenchmark-toolkit)] [[Website](https://unifedbenchmark.github.io)]
 
@@ -33,6 +33,8 @@ I am a first-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
 
 ## Honors and Awards
 
+ - **Zhejiang Provincial Outstanding Graduate (5%):** 2023
+ - **Certificate of Chu Kochen Honors Program (5%):** 2023
  - **Zhejiang Provincial Government Scholarship (3%):** 2022
  - **Zhejiang University: First Prize Scholarship (3%):** 2019 - 2022
  - **Zhejiang University: Outstanding Student Cadre (2%):** 2020, 2022
