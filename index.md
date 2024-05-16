@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), supervised by [Prof. Calton Pu](https://www.cc.gatech.edu/~calton). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), an honors program jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am working on time-aware domain-adaptive machine learning and federated learning. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
+I am a first-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), supervised by [Prof. Calton Pu](https://www.cc.gatech.edu/~calton). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), an honors program jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am working on time-aware domain-adaptive machine learning with large language models. Before that, I worked on several exciting projects about federated learning and its heterogeneity, reliability, security, accessibility, effectiveness, and privacy. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
 
 ## News
 
