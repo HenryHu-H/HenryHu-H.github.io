@@ -37,7 +37,7 @@ I am a first-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
  - **Certificate of Chu Kochen Honors Program (5%):** 2023
  - **Zhejiang Provincial Government Scholarship (3%):** 2022
  - **Zhejiang University: First Prize Scholarship (3%):** 2019 - 2022
- - **Zhejiang University: Outstanding Student Cadre (2%):** 2020, 2022
+ - **Zhejiang University: Outstanding Student Leader (2%):** 2020, 2022
  - **Chu Kochen Honors College: Scholarship for Leading Achievements (5%):** 2021
  - **MIT “AI+X” Blended Learning Advanced SPOC: Graded A+ (10%):** 2021
  - **Chu Kochen Honors College Leadership Cultivation Program: Outstanding Student (2%):** 2020
