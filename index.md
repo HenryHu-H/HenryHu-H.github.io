@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), supervised by [Prof. Calton Pu](https://www.cc.gatech.edu/~calton). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), an honors program jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am working on temporal evolution with large language models that can learn from labeled or unlabeled new knowledge over time while preserving useful information in old knowledge. Before that, I worked on several research projects about federated learning and its heterogeneity, reliability, security, accessibility, effectiveness, and privacy. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
+I am a second-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), advised by [Prof. Stephen Mussmann](https://steve.mussmann.us). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), an honors program jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am interested in how models can effectively learn from limited labeled data. During my first year, I worked on temporal evolution with large language models that can learn from labeled or unlabeled new knowledge over time while preserving useful information in old knowledge. Before that, I worked on several research projects about federated learning and its heterogeneity, reliability, security, accessibility, effectiveness, and privacy. I also participated in some works on visual analytics, including machine learning diagnosis and sports data analysis.
 
 ## News
 
-- **[Aug. 2023]** I became a Ph.D. student at [Georgia Institute of Technology](https://gatech.edu), supervised by [Prof. Calton Pu](https://www.cc.gatech.edu/~calton).
+- **[Aug. 2023]** I became a Ph.D. student at [Georgia Institute of Technology](https://gatech.edu).
 - **[Jun. 2023]** I graduated from [Zhejiang University](https://www.zju.edu.cn/english) with my bachelor's degree.
-- **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), supervised by [Prof. Bo Li](https://aisecure.github.io).
-- **[Apr. 2021]** I became an undergraduate research assistant at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Wei Chen](http://www.cad.zju.edu.cn/chenwei).
+- **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), advised by [Prof. Bo Li](https://aisecure.github.io).
+- **[Apr. 2021]** I became an undergraduate research assistant at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Wei Chen](http://www.cad.zju.edu.cn/chenwei).
 
 ## Preprints
 
