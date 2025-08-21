@@ -11,7 +11,7 @@ I am a third-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
 - **[Aug. 2023]** I became a Ph.D. student at [Georgia Institute of Technology](https://gatech.edu).
 - **[Jun. 2023]** I graduated from [Zhejiang University](https://www.zju.edu.cn/english) with my bachelor's degree.
 - **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), advised by [Prof. Bo Li](https://aisecure.github.io).
-- **[Apr. 2021]** I became an undergraduate research assistant at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Wei Chen](http://www.cad.zju.edu.cn/chenwei).
+- **[Apr. 2021]** I became an undergraduate research assistant at [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn), advised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei).
 
 ## Preprints
 
