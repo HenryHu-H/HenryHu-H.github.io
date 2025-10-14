@@ -15,11 +15,17 @@ I am a third-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
 
 ## Preprints
 
+- **Myopic Bayesian Decision Theory for Batch Active Learning with Partial Batch Label Sampling**
+  <br>
+  **Kangping Hu**, Stephen Mussmann
+  <br>
+  [[PDF](https://arxiv.org/pdf/2510.09877)] [[Code](https://github.com/ADDAPT-ML/ParBaLS)]
+
 - **UniFed: All-In-One Federated Learning Platform to Unify Open-Source Frameworks**
   <br>
   Xiaoyuan Liu, Tianneng Shi, Chulin Xie, Qinbin Li, **Kangping Hu**, Haoyu Kim, Xiaojun Xu, The-Anh Vu-Le, Zhen Huang, Arash Nourian, Bo Li, Dawn Song
   <br>
-  [[PDF](https://arxiv.org/pdf/2207.10308.pdf)] [[Code](https://github.com/AI-secure/FLBenchmark-toolkit)] [[Website](https://unifedbenchmark.github.io)]
+  [[PDF](https://arxiv.org/pdf/2207.10308)] [[Code](https://github.com/AI-secure/FLBenchmark-toolkit)] [[Website](https://unifedbenchmark.github.io)]
 
 ## Publications
 
@@ -44,5 +50,5 @@ I am a third-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
 
 ## Services
 
-- **Conference Reviewer:** NeurIPS 2022 Datasets and Benchmarks Track
+- **Conference Reviewer:** AISTATS 2026, NeurIPS 2022 Datasets and Benchmarks Track
 - **Teaching Assistant:** CS 7641: Machine Learning (Spring 2025), CS 6235: Real-time Systems (Fall 2024), CS 6365: Introduction to Enterprise Computing (Summer 2024), CS 6220: Big Data Systems and Analytics (Fall 2023)
