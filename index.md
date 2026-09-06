@@ -4,10 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a third-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), advised by [Prof. Steve Mussmann](https://steve.mussmann.us). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), an honors program jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am interested in how machine learning models can effectively and efficiently learn from limited labeled data in an explainable way. During my first year, I worked on temporal evolution with large language models that can adaptively learn from both labeled and unlabeled new knowledge over time while preserving useful information in old knowledge. Before that, I worked on several research projects related to federated learning, including its heterogeneity, reliability, security, accessibility, effectiveness, and privacy. I also participated in various projects related to visual analytics, including machine learning diagnosis and sports data analysis.
+I am a fourth-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at [Georgia Institute of Technology](https://gatech.edu), advised by [Prof. Steve Mussmann](https://steve.mussmann.us). I received my bachelor's degree from Turing Class at [Zhejiang University](https://www.zju.edu.cn/english), an honors program jointly cultivated by [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen) and [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn). I am interested in how machine learning models can effectively and efficiently learn from limited data in an explainable way, including unlabeled data selection for labeling in classification and prompt selection for generation in multimodal preference tuning. During my first year, I worked on temporal evolution with large language models that can adaptively learn from both labeled and unlabeled new knowledge over time while preserving useful information in old knowledge. Before that, I worked on several research projects related to federated learning, including its heterogeneity, reliability, security, accessibility, effectiveness, and privacy. I also participated in various projects related to visual analytics, including machine learning diagnosis and sports data analysis.
 
 ## News
 
+- **[Apr. 2026]** I passed my Ph.D. qualifying exam for the [Foundations of Artificial Intelligence](https://scs.gatech.edu/foundations-artificial-intelligence) area.
 - **[Aug. 2023]** I became a Ph.D. student at [Georgia Institute of Technology](https://gatech.edu).
 - **[Jun. 2023]** I graduated from [Zhejiang University](https://www.zju.edu.cn/english) with my bachelor's degree.
 - **[Feb. 2022]** I became a research intern at [University of Illinois Urbana-Champaign](https://illinois.edu), advised by [Prof. Bo Li](https://aisecure.github.io).
@@ -50,5 +51,5 @@ I am a third-year Ph.D. student in [Computer Science](https://scs.gatech.edu) at
 
 ## Services
 
-- **Conference Reviewer:** AISTATS 2026, NeurIPS 2022 Datasets and Benchmarks Track
-- **Teaching Assistant:** CS 7641: Machine Learning (Spring 2025), CS 6235: Real-time Systems (Fall 2024), CS 6365: Introduction to Enterprise Computing (Summer 2024), CS 6220: Big Data Systems and Analytics (Fall 2023)
+- **Conference Reviewer:** NeurIPS 2026, ICML 2026, AISTATS 2026, NeurIPS 2022
+- **Teaching Assistant:** CS 7545: Machine Learning Theory (Fall 2026), CS 7641: Machine Learning (Spring 2025), CS 6235: Real-time Systems (Fall 2024), CS 6365: Introduction to Enterprise Computing (Summer 2024), CS 6220: Big Data Systems and Analytics (Fall 2023)
